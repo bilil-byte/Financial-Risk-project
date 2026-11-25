@@ -106,7 +106,9 @@ The notebook ends with a detailed "Assumptions & limitations" section. The main 
 - Fat-tailed distributions (Student-t) or filtered historical simulation
 - Christoffersen independence test and backtesting of the CVaR
 
-## Author
+## Authors
 
-- Lilian NKWEMFO
-- Cédric Victor BILONG
+- Lilian NKWEMFO (https://www.linkedin.com/in/lilian-nkwemfo-tchami-4a8b22250)
+- Victor Cédric BILONG (https://www.linkedin.com/in/victor-cedric-b-002401168)
+
+*Educational project, not investment advice.*
